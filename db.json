@@ -40,8 +40,8 @@
 				"id": "activityId1Project1Post"
 			},
 			"duration": {
-				"from": "14-11-2019",
-				"to": "24-11-2019"
+				"from": "2019-11-14",
+				"to": "2019-11-24"
 			}
 		},
 		{
@@ -56,8 +56,8 @@
 				"id": "activityId2Project1Post"
 			},
 			"duration": {
-				"from": "14-10-2019",
-				"to": "24-10-2019"
+				"from": "2019-10-14",
+				"to": "2019-10-24"
 			}
 		},
 		{
@@ -72,8 +72,8 @@
 				"id": "activityId1Project2Post"
 			},
 			"duration": {
-				"from": "14-11-2019",
-				"to": "24-11-2019"
+				"from": "2019-09-14",
+				"to": "2019-09-24"
 			}
 		},
 		{
@@ -88,8 +88,8 @@
 				"id": "activityId2Project2Post"
 			},
 			"duration": {
-				"from": "14-10-2019",
-				"to": "24-10-2019"
+				"from": "2019-08-14",
+				"to": "2019-08-24"
 			}
 		}
 	],
