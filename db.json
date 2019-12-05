@@ -64,6 +64,19 @@
 					"id": "activityId2Project1"
 				}
 			]
+		},
+		{
+			"id": "idProject5",
+			"name": "Project LLINs",
+			"description": "Project LLINs Distribution",
+			"activities": [
+				{
+					"id": "activityId1Project1"
+				},
+				{
+					"id": "activityId2Project1"
+				}
+			]
 		}
 	],
 	"activities": [
