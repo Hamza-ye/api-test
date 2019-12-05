@@ -16,7 +16,7 @@
 		{
 			"id": "idProject2",
 			"name": "Project IRS",
-			"description": "Project IRS Distribution",
+			"description": "Project IRS Distribution Project LLINs Distribution Project LLINs Project LLINs Distribution Project LLINs Project LLINs Distribution Project LLINs Project LLINs Distribution Project LLINs Project LLINs Distribution Project LLINs ",
 			"activities": [
 				{
 					"id": "activityId1Project2"
@@ -42,7 +42,7 @@
 		{
 			"id": "idProject4",
 			"name": "Project LLINs",
-			"description": "Project LLINs Distribution",
+			"description": "Project LLINs Distribution Project LLINs Distribution Project LLINs Project LLINs Distribution Project LLINs ",
 			"activities": [
 				{
 					"id": "activityId1Project1"
@@ -55,7 +55,7 @@
 		{
 			"id": "idProject5",
 			"name": "Project LLINs",
-			"description": "Project LLINs Distribution",
+			"description": "Project LLINs Distribution Project LLINs Distribution Project LLINs Project LLINs Distribution Project LLINs ",
 			"activities": [
 				{
 					"id": "activityId1Project1"
